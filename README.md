@@ -1,4 +1,4 @@
 # hello-world
-mine depository
+my depository
 
 I am making some changes to this depository. 
